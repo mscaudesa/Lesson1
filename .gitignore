@@ -1,5 +1,10 @@
+# Ignore all files with extension .txt
 *.txt
+# Ignore all files without a dot
 *[^.]*
+# Ignore all files with o as extension
 *.o
+# Ignore all files with out as extension
 *.out
+# Ignore the .vscode hiden folder
 **/.vscode/
