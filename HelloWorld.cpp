@@ -9,11 +9,9 @@ void myFunc(string myMsg){
 
 int main(){
     vector<string> msg = {"Hello", "C++"};
-    int x = 100, y=1;
-    int w = 3;
+    int x = 5;
 
     myFunc("Hello World!");
-    myFunc("Ciao World!");
     
     return 0;
 }
