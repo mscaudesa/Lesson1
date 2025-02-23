@@ -13,6 +13,7 @@ int main(){
     string commit = "Commit 2";
     int y=3;
     char z = '4';
+    char t = 'v';
 
     myFunc("Hello World!");
     
