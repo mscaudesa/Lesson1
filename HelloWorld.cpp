@@ -1,5 +1,4 @@
 #include <iostream>
-#include <vector>
 #include <string>
 using namespace std;
 
@@ -8,8 +7,6 @@ void myFunc(string myMsg){
 }
 
 int main(){
-    vector<string> msg = {"Hello", "C++"};
-
     myFunc("Hello, World!");
 
     
