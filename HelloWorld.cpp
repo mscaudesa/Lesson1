@@ -10,7 +10,7 @@ void myFunc(string myMsg){
 int main(){
     vector<string> msg = {"Hello", "C++"};
 
-    myFunc("Hello, World!");
+    myFunc("Hello, world!");
 
     return 0;
 }
