@@ -13,6 +13,6 @@ int main(){
     myFunc("Hello, World!");
 
     myFunc("Ciao, World!");
-    int u=3;
+
     return 0;
 }
