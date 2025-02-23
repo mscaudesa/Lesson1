@@ -12,7 +12,7 @@ int main(){
     int x=1;
     myFunc("Hello, World!");
 
-    
+    myFunc("Ciao, World!");
 
     return 0;
 }
