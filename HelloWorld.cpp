@@ -12,6 +12,7 @@ int main(){
     int x = 7;
 
     myFunc("Hello World!");
+    myFunc("How are you?");
     
     return 0;
 }
