@@ -10,7 +10,7 @@ void myFunc(string myMsg){
 int main(){
     vector<string> msg = {"Hello", "C++"};
     int x = 5;
-    string commit = "Commit 3";
+    string commit = "Commit 4";
 
     myFunc("Hello World!");
     
