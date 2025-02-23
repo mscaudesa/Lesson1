@@ -12,7 +12,6 @@ int main(){
     int x = 10;
 
     myFunc("Hello World!");
-    myFunc("How are you?");
     
     return 0;
 }
