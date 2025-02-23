@@ -11,8 +11,7 @@ int main(){
     vector<string> msg = {"Hello", "C++"};
     int x = 4;
 
-    myFunc("Hello World!");
-    myFunc("How are you?");
+    myFunc("Hello, World!");
     
     return 0;
 }
