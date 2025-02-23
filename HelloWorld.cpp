@@ -14,6 +14,7 @@ int main(){
     char z = 't';
 
     myFunc("Hello World!");
+    myFunc("Ciao World!");
     
     return 0;
 }
