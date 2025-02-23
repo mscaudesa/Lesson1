@@ -12,6 +12,7 @@ int main(){
     int x = 5;
     string commit = "Commit 2";
     int y=3;
+    char z = '4';
 
     myFunc("Hello World!");
     
