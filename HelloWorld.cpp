@@ -14,5 +14,8 @@ int main(){
     myFunc("Hello World!");
     myFunc("Ciao World!");
     
+
+    myFunc("Testing")
+
     return 0;
 }
