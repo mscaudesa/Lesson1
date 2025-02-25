@@ -8,7 +8,7 @@ void myFunc(string myMsg){
 
 int main(){
     myFunc("Hello, World!");
-    int x=4;
+    string w="Ciao Mondo!";
     
 
     return 0;
