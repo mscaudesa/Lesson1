@@ -7,9 +7,8 @@ void myFunc(string myMsg){
 }
 
 int main(){
-    myFunc("Hello, World!");
-    string w="Ciao Mondo!";
+    myFunc("\101");
+    long double ld = 1;
     
-
     return 0;
 }
